@@ -39,3 +39,4 @@ This is a basic implementation of hand gesture recognition and may not be accura
 Contact:
 
 Feel free to contact me for any questions or suggestions.
+mmonpart@gmail.com
